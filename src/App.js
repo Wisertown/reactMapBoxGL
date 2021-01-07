@@ -42,7 +42,7 @@ function App() {
         latitude={index[0]}
         longitude={index[1]}
         >
-        <div style={style}>|</div>
+        <div style={style}>X</div>
       </Marker>
       )));
   };

@@ -33,6 +33,18 @@
 .App-link {
   color: #61dafb;
 }
+.buttons{
+  padding:10px;
+}
+.slider{
+  padding:10px;
+  width:400px;
+  margin-right:auto;
+  margin-left:auto;
+}
+.rs-btn{
+  margin:5px;
+}
 
 @keyframes App-logo-spin {
   from {
